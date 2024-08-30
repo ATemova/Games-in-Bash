@@ -1,2 +1,3 @@
 # Games-in-Bash
-Unpublished games in bash
+### Unpublished games in bash
+**Bash** (Bourne Again Shell) is a widely-used Unix shell and command language, integral to many Unix-like operating systems, including Linux and macOS. Developed as a free replacement for the Bourne Shell (sh), Bash incorporates features from the Korn Shell (ksh) and the C Shell (csh), making it a versatile and powerful tool for scripting and command-line operations. It is used for executing commands, automating repetitive tasks, and managing system processes. Bash scripts can perform complex tasks by combining commands, handling variables, and implementing control structures like loops and conditionals. Its extensive use in system administration and programming makes it a fundamental skill for managing and interacting with Unix-based systems.
